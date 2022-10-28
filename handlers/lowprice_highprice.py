@@ -10,7 +10,7 @@ from loader import bot, logger, exception_handler
 from database.models import user, DataBaseModel, Hotel
 from settings import constants
 from settings import settings
-from . import bestdeal
+from .import bestdeal
 from api_requests.request_api import request_search, request_property_list, request_get_photo, request_bestdeal
 from keyboards import keyboards, keyboards_text, calendar
 from telebot.types import CallbackQuery, InputMediaPhoto, Message
