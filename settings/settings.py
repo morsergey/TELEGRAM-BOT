@@ -12,7 +12,7 @@ else:
 # TOKEN = os.environ.get('TOKEN')
 # API_KEY = os.environ.get('API_KEY')
 TOKEN = os.environ.get('5746583328:AAGt4K1ErMuzmkYQEBDo7luToJhWHmk3W9k')
-API_KEY = os.environ.get('4be51f1e2cmsh6a32f721a78b683')
+API_KEY = os.environ.get('4be51f1e2cmsh6a32f721a78b683p1b0045jsn3beeed16815c')
 
 
 
