@@ -9,10 +9,10 @@ if not find_dotenv():
     exit('Файл .env отсутствует')
 else:
     load_dotenv()
-TOKEN = os.environ.get('TOKEN')
-API_KEY = os.environ.get('API_KEY')
-# TOKEN = os.environ.get('5746583328:AAGWbrwSkrNRO7RKhPaJ3rmCKuxxCa7chIw')
-# API_KEY = os.environ.get('4be51f1e2cmsh6a32f721a78b683p1b0045jsn3beeed16815c')
+# TOKEN = os.environ.get('TOKEN')
+# API_KEY = os.environ.get('API_KEY')
+TOKEN = os.environ.get('5746583328:AAGWbrwSkrNRO7RKhPaJ3rmCKuxxCa7chIw')
+API_KEY = os.environ.get('4be51f1e2cmsh6a32f721a78b683p1b0045jsn3beeed16815c')
 
 
 
